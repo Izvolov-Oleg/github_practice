@@ -1,5 +1,5 @@
 # Создаем класс "робот" - решение прошло!
-
+print('Version 2.0')
 class Robot(object):
     population = 0
 
