@@ -9,4 +9,6 @@ print('V5.0')
 R1 = nf.Robot('A234')
 R1.say_hello()
 print(R1.name)
+print('Version 6.0')
+
 
